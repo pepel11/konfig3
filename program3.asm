@@ -1,0 +1,5 @@
+; Этап 3 тест
+LOAD_CONST 42, 0
+WRITE_MEM 0, 0
+LOAD_CONST 99, 1
+WRITE_MEM 1, 1

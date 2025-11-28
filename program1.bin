@@ -1,0 +1,4 @@
+{'mnemonic': 'LOAD_CONST', 'args': [530, 12], 'A': 12, 'size': 4}
+{'mnemonic': 'READ_MEM', 'args': [869, 14], 'A': 10, 'size': 4}
+{'mnemonic': 'WRITE_MEM', 'args': [15, 16], 'A': 7, 'size': 2}
+{'mnemonic': 'BITREVERSE', 'args': [12, 28], 'A': 1, 'size': 2}
